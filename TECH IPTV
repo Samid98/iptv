@@ -1,6 +1,3 @@
-#EXTM3U
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://hdclipartall.com/images/free-gold-letter-h-clipart-letter-h-clipart-300_300.jpg",IPTV by Ashraf Himel
-https://i.imgur.com/iHYbRDH.mp4
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png",BTV
 http://103.205.133.19/hls/btv.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png",BTV CTG
