@@ -83,3 +83,5 @@ http://199.66.95.242:80/3/3096/index.m3u8?token=test
 http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:-1 tvg-id="SonyMax" tvg-name="Sony Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk43Aj0CgFNicLhkfN0BhwUn0tAwjzRXLvzw&usqp=CAU" group-title="Live Tv",Sony Max
 http://tamilbreak.com/jiotv/live.php?c=Sony_Max_SD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="COLORS HD" tvg-name="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Live Tv",COLORS HD
+https://tvstream.space/jtv/prrrrr.php?c=Colors_HD&=1200&e=.m3u8
