@@ -86,11 +86,11 @@ http://103.153.39.34:8000/play/a04k/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bu01fzb.png" group-title="indian", Mtv HD
 https://wyjs.tk/index.php/http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="Sony Sab HD" tvg-name="Sony Sab HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-sab-hd-logo-300x300.jpg" group-title="Live Tv", Sony Sab HD
-http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+http://212.224.98.196:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=SS
 #EXTINF: -1 tvg-id="COLORS HD" tvg-name="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Live Tv", COLORS HD
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 #EXTINF: -1 tvg-id="SonyMax HD" tvg-name="Sony Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk43Aj0CgFNicLhkfN0BhwUn0tAwjzRXLvzw&usqp=CAU" group-title="Live Tv", Sony Max HD
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RK
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cChZ0ai.png" group-title="Kids", Disney Channel- Hindi
 http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports", PTV Sports (2)
