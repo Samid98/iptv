@@ -68,7 +68,7 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTGuvgUVlxlhEfat-rCQHtf_yPmc6loLHez2KdI4Q=s900-c-k-c0x00ffffff-no-rj" group-title="All", STAR GOLD HD
 http://castinghlosing.ddns.net/hls/stream19.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
-http://209.126.120.151/hls/tsports.m3u8
+http://103.157.237.18:8000/play/630
 #EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg" group-title="All", SONY TEN 2 HD
 http://castinghlosing.ddns.net/hls/stream39.m3u8
 #EXTINF: -1 tvg-logo="https://sportschunky.com/wp-content/uploads/2019/03/maxresdefault-6.jpg" group-title="All", SONY SIX HD
