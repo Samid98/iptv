@@ -72,8 +72,6 @@ http://103.157.237.18:8000/play/630
 #EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg" group-title="All", SONY TEN 2 HD
 http://castinghlosing.ddns.net/hls/stream39.m3u8
 #EXTINF: -1 tvg-logo="https://sportschunky.com/wp-content/uploads/2019/03/maxresdefault-6.jpg" group-title="All", SONY SIX HD
-http://tv.pmcon.net/hls/stream10.m3u8
-#EXTINF: -1 tvg-logo="https://sportschunky.com/wp-content/uploads/2019/03/maxresdefault-6.jpg" group-title="All", SONY SIX 2ND
 http://199.66.95.242:80/3/3096/index.m3u8?token=test
 #EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg" group-title="All", SONY TEN HD (2)
 http://tv.pmcon.net/hls/stream39.m3u8
@@ -95,18 +93,12 @@ https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cChZ0ai.png" group-title="Kids", Disney Channel- Hindi
 http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports", PTV Sports (2)
-http://180.210.191.2/hls/stream11.m3u8
 #EXTINF: -1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Sports", Ten Cricket
 http://180.210.191.2/hls/stream34.m3u8
-#EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_2_in.png" group-title="Sports", Star Sports 2 HD (2)
-http://180.210.191.2/hls/stream16.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/g7TdD4n.png" group-title="Sports", TSN 1
 http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_1_hindi_in.png" group-title="Sports", Star Sports 1 (3)
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.ibb.co/MG705fX/download-removebg-preview.png" group-title="Sports", Star Sports Select 1 HD (1)
-http://180.210.191.2/hls/stream12.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg" group-title="Sports", Star Sports Select 2 (3)
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8
 #EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_3_in.png" group-title="Sports", Star Sports 3
