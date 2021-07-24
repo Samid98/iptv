@@ -91,8 +91,8 @@ https://wyjs.tk/index.php/http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="COLORS HD" tvg-name="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="All", COLORS HD
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
-#EXTINF: -1 tvg-id="SonyMax HD" tvg-name="Sony Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk43Aj0CgFNicLhkfN0BhwUn0tAwjzRXLvzw&usqp=CAU" group-title="All", Sony Max HD
-http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RK
+#EXTINF:-1 group-title="All" tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_max_in.png",SONY MAX
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cChZ0ai.png" group-title="Kids", Disney Channel- Hindi
 http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports", PTV Sports (2)
