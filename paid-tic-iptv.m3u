@@ -53,6 +53,10 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?t
 http://212.102.60.40:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="All", Star Jalsha HD
 http://180.210.191.2/hls/stream31.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png",Zee Bangla HD (Global)
+https://d2k667g61yse6h.cloudfront.net/101.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_aath_in.png",Sony Aath (Global)
+http://103.157.237.18:8000/play/210
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr0jM6gO-BX-4LsUOQX99xCYgGTG7anU3HqqAmY2wxpuOTdhqi0y-EAoa1BHMu2KD-7lk&usqp=CAU" group-title="All", STAR PLUS HD
 http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RK
 #EXTINF: -1 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="All", UTV Action
@@ -89,8 +93,16 @@ http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_max_in.png",SONY MAX
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
+#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix
+https://is.gd/ObFrpt
+#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix HD 
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://is.gd/aikPwd",Star Movies SD
+http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cChZ0ai.png" group-title="Kids", Disney Channel- Hindi
 http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports (3)
+http://212.224.98.206:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=
 #EXTINF: -1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Sports", Ten Cricket
 http://180.210.191.2/hls/stream34.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/g7TdD4n.png" group-title="Sports", TSN 1
