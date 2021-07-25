@@ -58,7 +58,7 @@ https://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_aath_in.png",Sony Aath
 http://103.157.237.18:8000/play/210
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr0jM6gO-BX-4LsUOQX99xCYgGTG7anU3HqqAmY2wxpuOTdhqi0y-EAoa1BHMu2KD-7lk&usqp=CAU" group-title="All", STAR PLUS HD
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+http://tv.pmcon.net/hls/stream38.m3u8
 #EXTINF: -1 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="All", UTV Action
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png" group-title="All", ZEE Cinema HD
