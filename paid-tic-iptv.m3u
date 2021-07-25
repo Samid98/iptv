@@ -116,6 +116,6 @@ http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Infotainment", Discovery HD
 http://mygoodstream.pw/proxy.php/http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tRVtg3Q.png" group-title="Infotainment", Travel XP
-http://180.210.191.2/hls/stream37.m3u8
+http://tv.pmcon.net/hls/stream37.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/plKUWKl.png" group-title="Infotainment", NAT GEO
 http://tv.pmcon.net/hls/stream13.m3u8
