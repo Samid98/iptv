@@ -113,9 +113,9 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8
 #EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_3_in.png" group-title="Sports", Star Sports 3
 http://103.109.56.116/live/skyfeed1022/index.m3u8
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Infotainment", Discovery HD [Bangla]
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="Infotainment", Discovery HD
 http://mygoodstream.pw/proxy.php/http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/tRVtg3Q.png" group-title="Infotainment", Travel XP (Bangla)
+#EXTINF: -1 tvg-logo="https://i.imgur.com/tRVtg3Q.png" group-title="Infotainment", Travel XP
 http://180.210.191.2/hls/stream37.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/plKUWKl.png" group-title="Infotainment", NAT GEO (Bangla)
-http://180.210.191.2/hls/stream13.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/plKUWKl.png" group-title="Infotainment", NAT GEO
+http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
