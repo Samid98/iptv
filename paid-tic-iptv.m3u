@@ -120,4 +120,4 @@ http://103.109.56.116/live/skyfeed1015/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tRVtg3Q.png" group-title="Infotainment", Travel XP
 http://tv.pmcon.net/hls/stream37.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/plKUWKl.png" group-title="Infotainment", NAT GEO
-http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+http://tv.pmcon.net/hls/stream13.m3u8
