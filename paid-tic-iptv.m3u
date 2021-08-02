@@ -54,13 +54,15 @@ http://103.81.104.118/hls/stream31.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png",Zee Bangla HD
 http://103.81.104.118/hls/stream30.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_aath_in.png",Sony Aath
-http://209.126.120.151/hls/sony8.m3u8
+http://tvflix2.ddns.net/bee-global/sonyaath/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_581/PORTRAIT/1ZpahMbB.png?o=production" group-title="All", AND TV
 http://tvflix2.ddns.net/bee-global/andtv/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr0jM6gO-BX-4LsUOQX99xCYgGTG7anU3HqqAmY2wxpuOTdhqi0y-EAoa1BHMu2KD-7lk&usqp=CAU" group-title="All", STAR PLUS HD
 http://103.81.104.118/hls/stream38.m3u8
 #EXTINF: -1 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="All", UTV Action
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png" group-title="All", ZEE Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png" group-title="All", ZEE Cinema HD
 http://103.81.104.118/hls/stream25.m3u8
 #EXTINF: -1 tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2019/08/are-you-huge-music-aficionado-give-9xm-soundcaste-podcast-list-920x518.jpg" group-title="All", 9xm
@@ -81,8 +83,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bu01fzb.png" group-title="indian", Mtv HD
 http://tvstar.live:8880/live/4175759996/TVSTARIPTV/325290.ts
-#EXTINF: -1 tvg-id="Sony Sab" tvg-name="Sony Sab" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-sab-hd-logo-300x300.jpg" group-title="All", Sony Sab
-http://103.157.237.18:8000/play/335
 #EXTINF: -1 tvg-id="Sony Sab HD" tvg-name="Sony Sab HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-sab-hd-logo-300x300.jpg" group-title="All", Sony Sab HD
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="COLORS HD" tvg-name="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="All", COLORS HD
