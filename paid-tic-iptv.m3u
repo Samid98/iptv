@@ -93,8 +93,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bu01fzb.png" group-title="All", Mtv HD
 http://indo51.gcdn.co/hindi-MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/03/07/Sony%20SAB.jpg?itok=r47XqTtp" group-title="All", SONY SAB
-http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="Sony Sab HD" tvg-name="Sony Sab HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-sab-hd-logo-300x300.jpg" group-title="All", Sony Sab HD
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Colors-Rishtey.png" group-title="All", COLORS RISTEY
