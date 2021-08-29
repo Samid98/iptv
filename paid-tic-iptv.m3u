@@ -118,11 +118,11 @@ http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6.jpg" group-title="All",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-http://209.126.120.91/hls/ten1.m3u8
+http://tvflixbdvip.ddns.net/hls/ten1.m3u8
 #EXTINF: -1 tvg-logo="https://sportschunky.com/wp-content/uploads/2019/03/maxresdefault-6.jpg" group-title="All", SONY SIX HD
 http://tvflix03.ddns.net/ENC-3/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg" group-title="All", SONY TEN 2 HD
-http://113.212.111.246:8080/hls/col12.m3u8
+http://tvflix03.ddns.net/Ten2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports
 http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Sports", Ten Sports
