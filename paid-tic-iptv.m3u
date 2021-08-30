@@ -66,7 +66,7 @@ http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/16964
 #EXTINF: -1 tvg-logo="https://www.hum.tv/wp-content/uploads/2018/10/hum-tv-logo-512x512.png", HUM TV HD
 http://indo51.gcdn.co/urdu-HUMTV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr0jM6gO-BX-4LsUOQX99xCYgGTG7anU3HqqAmY2wxpuOTdhqi0y-EAoa1BHMu2KD-7lk&usqp=CAU" group-title="All", STAR PLUS HD
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="All", UTV Action
 http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF: -1 tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png" group-title="All", ZEE Cinema
