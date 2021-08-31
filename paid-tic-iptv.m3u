@@ -62,7 +62,7 @@ http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/07/14/zee.jpg?itok=Qxy57zIA" group-title="All", ZEE TV
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_581/PORTRAIT/1ZpahMbB.png?o=production" group-title="All", AND TV
-http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/16964
+http://indo51.gcdn.co/hindi-&TVUK/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.hum.tv/wp-content/uploads/2018/10/hum-tv-logo-512x512.png", HUM TV HD
 http://indo51.gcdn.co/urdu-HUMTV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr0jM6gO-BX-4LsUOQX99xCYgGTG7anU3HqqAmY2wxpuOTdhqi0y-EAoa1BHMu2KD-7lk&usqp=CAU" group-title="All", STAR PLUS HD
@@ -104,7 +104,7 @@ https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="http://www.kcvnet.in/images/chanellogo/b_flix_movies_in.png",BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Sony_Wah.jpg/revision/latest?cb=20180603153048" group-title="All", SONY WAH
-http://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+http://indo51.gcdn.co/hindi-Sonymix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_max_in.png",SONY MAX
 http://indo51.gcdn.co/hindi-SONYMAXindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix HD
@@ -126,7 +126,7 @@ http://tvflix03.ddns.net/Ten2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports
 http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Sports", Ten Sports
-http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
+http://ux38.gcdn.co/UKS47/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_1_hindi_in.png" group-title="Sports", Star Sports 1 HD
 http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg" group-title="Sports", Star Sports Select 2
