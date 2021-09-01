@@ -6,7 +6,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="All", CHANNEL I HD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="All", RTV HD [BD]
-http://tvflixbdvip.ddns.net/hls/rtv.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="All", BOISHAKHI TV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/qx0fxyv7rdx2uwi/bangla_vision.png" group-title="All", BANGLA VISION [BD]
@@ -44,7 +44,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="All", GAAN BANGLA HD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-7wMNUTrrEiY/XBkpVA1fkGI/AAAAAAAAAbI/QJx7sTzDKWU4d5E-9KfCpx3rd9IV3b1bgCLcBGAs/w1200-h630-p-k-no-nu/Ekattor-Tv-live.png" group-title="All", Ekattor TV
-http://tvflixbdvip.ddns.net/hls/ekatoortv.m3u8
+http://indo51.gcdn.co/BANGLA-BD-Ekattortv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpBKzWtSeZymB2lM_HFpieRsWUbve4p5AhuV_iaZikmgWBowKdJkOaC3ILkl-ag-4_1AM&usqp=CAU" group-title="All", NICK
 http://pkr.cinepex.tv:8278/nickhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-set-hd-logo-300x300.jpg" group-title="All", SONY HD
