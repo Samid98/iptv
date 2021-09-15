@@ -66,13 +66,13 @@ http://indo51.gcdn.co/urdu-HUMTV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_581/PORTRAIT/1ZpahMbB.png?o=production" group-title="All", AND TV
 http://indo51.gcdn.co/hindi-&tvHDindia/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr0jM6gO-BX-4LsUOQX99xCYgGTG7anU3HqqAmY2wxpuOTdhqi0y-EAoa1BHMu2KD-7lk&usqp=CAU" group-title="All", STAR PLUS HD
-http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
+http://indo51.gcdn.co/hindi-STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="All", UTV Action
 http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF: -1 tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png" group-title="All", ZEE Cinema
 http://indo51.gcdn.co/hindi-ZEECinemaSD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png" group-title="All", ZEE Cinema HD
-https://ayushiz5tv.herokuapp.com?c=0-9-zeecinemahd
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2019/08/are-you-huge-music-aficionado-give-9xm-soundcaste-podcast-list-920x518.jpg" group-title="All", 9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="All", Sangeet Bangla
