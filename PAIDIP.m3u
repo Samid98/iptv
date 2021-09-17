@@ -72,7 +72,7 @@ http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF: -1 tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png" group-title="All", ZEE Cinema
 http://indo51.gcdn.co/hindi-ZEECinemaSD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png" group-title="All", ZEE Cinema HD
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+http://indo51.gcdn.co/hindi-ZeeCinemaHDindia/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2019/08/are-you-huge-music-aficionado-give-9xm-soundcaste-podcast-list-920x518.jpg" group-title="All", 9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="All", Sangeet Bangla
