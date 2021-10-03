@@ -60,7 +60,7 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_SD-BANG-COLORS/tracks-v1a1/index.m3u8?tok
 #EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_aath_in.png" group-title="All", Sony Aath
 https://s1.bdtv.xyz/token/sonyaath/chunks.m3u8?nimblesessionid=1860943&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIxIDg6Mzc6MzYgQU0maGFzaF92YWx1ZT00MmJLWnIyU25zRnIwNzhTM3VQUkNRPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF: -1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/07/14/zee.jpg?itok=Qxy57zIA" group-title="All", ZEE TV HD
-http://indo51.gcdn.co/hindi-ZEETVHD/tracks-v1a1/mono.m3u8
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.hum.tv/wp-content/uploads/2018/10/hum-tv-logo-512x512.png" group-title="All", HUM TV HD
 http://indo51.gcdn.co/urdu-HUMTV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_581/PORTRAIT/1ZpahMbB.png?o=production" group-title="All", AND TV
