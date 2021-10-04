@@ -62,7 +62,7 @@ https://tvstream.space/jtv/jeox.php?c=Sony_aath&q=800&e=.m3u8
 #EXTINF: -1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/07/14/zee.jpg?itok=Qxy57zIA" group-title="All", ZEE TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.hum.tv/wp-content/uploads/2018/10/hum-tv-logo-512x512.png" group-title="All", HUM TV HD
-http://indo51.gcdn.co/urdu-HUMTV/tracks-v1a1/mono.m3u8
+http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_581/PORTRAIT/1ZpahMbB.png?o=production" group-title="All", AND TV
 https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr0jM6gO-BX-4LsUOQX99xCYgGTG7anU3HqqAmY2wxpuOTdhqi0y-EAoa1BHMu2KD-7lk&usqp=CAU" group-title="All", STAR PLUS HD
