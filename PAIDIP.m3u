@@ -114,7 +114,7 @@ https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF: -1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0/1593608716508?e=2159024400&v=beta&t=0iTAFWeb7Ny5RJFedyiIpycLHlMqrdWzckyz76rv1cs" group-title="All", HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://is.gd/aikPwd" group-title="All", Star Movies
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6.jpg" group-title="All", AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF: -1 tvg-logo="https://sportschunky.com/wp-content/uploads/2019/03/maxresdefault-6.jpg" group-title="All", SONY SIX HD
