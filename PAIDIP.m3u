@@ -46,7 +46,7 @@ http://103.40.226.94:8080/hls/channel_1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="All", GAAN BANGLA HD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-7wMNUTrrEiY/XBkpVA1fkGI/AAAAAAAAAbI/QJx7sTzDKWU4d5E-9KfCpx3rd9IV3b1bgCLcBGAs/w1200-h630-p-k-no-nu/Ekattor-Tv-live.png" group-title="All", Ekattor TV
-http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
+http://tv.c1live.com:8081/c1O7u0cF8lOzId/ekattor/chunks.m3u8?nimblesessionid=3160&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyMSA4OjU3OjIxIEFNJmhhc2hfdmFsdWU9ZHR3dHFRVzNqZG5VeVFNbVZmU2pSUT09JnZhbGlkbWludXRlcz01
 #EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-set-hd-logo-300x300.jpg" group-title="All", SONY HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="All", Star Jalsha HD
