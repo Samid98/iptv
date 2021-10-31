@@ -52,7 +52,7 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="All", Star Jalsha HD
 http://62.210.123.12:25461/live/carter/GUV1bMq2VK/29094.m3u8?token=TURYAhZYEAwSUwJUW1QAAlZSVANSWwFXUAoFAlABXlBVA1ZQUwBRAwNGTxBLF0AGVA9uD1IbCQQIA10BShsTFlMUbwoBEggUAlZSAApSEE8XFlgLUxsJBh0RFFwCG1xHBVAEQUkSV05EARFcWQ9tB1AUWAVTGwlYRF8IGURWCDpSA10CC1QQDBJUQR4aCkETF1hfE1pVHxRTWhBHB00DRwxEAldVARAaEgcMR1YXQBoXWBMkchsfFFRLEFAISg8KWEQKQQgDRw4SSEFbSzxABkYWQwNXVFZEEwlGBEQVRAhXHm8ACl5cU1MQCl1WEBBZF1cBRBobXllfWhBaFGYWDFJECkFWAgMPAkYe
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="All", Zee Bangla HD
-https://snehz5tv.herokuapp.com?c=0-9-zeebangla
+https://z5ams.akamaized.net/out/v1/9616200b22e049a8947aae755487d289/index.m3u8?hdnts=st=1635650929~exp=1635653929~acl=/*~hmac=be462e7e16102272c15dd1d2a778b6f60bcbbda48e8702dde8ed1f0a47a2da52
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="All", ZEE BANGLA CINEMA
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg/revision/latest/scale-to-width-down/220?cb=20171125150642" group-title="All", COLORS BANGLA
