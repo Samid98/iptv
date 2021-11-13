@@ -102,7 +102,7 @@ https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bu01fzb.png" group-title="All", Mtv HD
 http://tvflixjom.ddns.net//jioo.php?c=MTV_HD_Plus&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="Sony Sab HD" tvg-name="Sony Sab HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-sab-hd-logo-300x300.jpg" group-title="All", Sony Sab HD
-http://tvflixegc.hopto.org:1935/GECHindi/SONY_SAB.stream_720p/playlist.m3u8
+https://tvstream.space/jtv/tv.php?c=Sony_SAB_HD&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="COLORS HD" tvg-name="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="All", COLORS HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_max_in.png" group-title="All", SONY MAX
