@@ -106,7 +106,7 @@ http://183.178.58.115:8034/0.m3u8
 #EXTINF: -1 tvg-id="COLORS HD" tvg-name="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="All", COLORS HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_max_in.png" group-title="All", SONY MAX
-http://183.178.58.115:8027/0.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/1922/brand.gif?itok=aic2pJgR" group-title="All", KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="All", Sony Pix HD
