@@ -130,9 +130,9 @@ http://ux38.gcdn.co/UKS47/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_1_hindi_in.png" group-title="All", Star Sports 1 HD
 http://183.178.58.115:8019/0.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg" group-title="All", Star Sports Select 2
-http://superukmedia.watch:2086/wYZQ38gj4zvU/kUFvhwWr9BrB/91774
+http://183.178.58.115:8021/0.m3u8
 #EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_3_in.png" group-title="All", Star Sports Select 1
-http://93.152.174.144:4000/play/ss3in/index.m3u8
+http://183.178.58.115:8020/0.m3u8
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="All", Discovery HD
 http://last.gcdn.co/IND415/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tRVtg3Q.png" group-title="All", Travel XP
