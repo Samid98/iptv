@@ -54,7 +54,7 @@ http://live.flixhub.net/hls/starjalsha.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="All", Zee Bangla HD
 http://live.flixhub.net/hls/zeebanglahd.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="All", ZEE BANGLA CINEMA
-https://z5ams.akamaized.net/zbanglacnm/tracks-v4a1/hdntl=exp=1636894690~acl=%2f*~data=hdntl~hmac=5e1562b04743a76a4b05991107777e95afd1943dd6a7de32e4faa498f1e117ce/mono.m3u8
+http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg/revision/latest/scale-to-width-down/220?cb=20171125150642" group-title="All", COLORS BANGLA
 https://last.gcdn.co/IND393/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_aath_in.png" group-title="All", Sony Aath
