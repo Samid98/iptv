@@ -52,7 +52,7 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="All", Star Jalsha HD
 http://live.flixhub.net/hls/starjalsha.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="All", Zee Bangla HD
-http://live.flixhub.net/hls/zeebanglahd.m3u8
+http://45.127.244.7:8080/hls/channel10.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="All", ZEE BANGLA CINEMA
 http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg/revision/latest/scale-to-width-down/220?cb=20171125150642" group-title="All", COLORS BANGLA
