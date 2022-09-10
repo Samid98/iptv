@@ -118,13 +118,13 @@ http://102.102.102.102/hls/starmovies.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6.jpg" group-title="All", AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF: -1 tvg-logo="https://sportschunky.com/wp-content/uploads/2019/03/maxresdefault-6.jpg" group-title="All", SONY SIX HD
-http://103.149.130.122:8089/24/index.m3u8
+http://102.102.102.102/hls/sonysix.m3u8
 #EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg" group-title="All", SONY TEN 2 HD
-http://103.149.130.122:8089/21/index.m3u8
+http://102.102.102.102/hls/sonyten2.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="All", PTV Sports
 http://102.102.102.102/hls/ptv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="All", Sony Ten 1 HD
-http://103.149.130.122:8089/20/index.m3u8
+http://102.102.102.102/hls/sonyten1.m3u8
 #EXTINF: -1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="All", Ten Sports
 http://102.102.102.102/hls/ten.m3u8
 #EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_1_hindi_in.png" group-title="All", Star Sports 1 HD
