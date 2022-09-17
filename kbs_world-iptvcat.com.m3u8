@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 tvg-country="UN" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="Undefined",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8?checkedby:iptvcat.com
