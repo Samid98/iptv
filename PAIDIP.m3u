@@ -104,8 +104,8 @@ http://103.149.130.122:8089/46/index.m3u8
 #EXTINF: -1 tvg-id="Sony Sab HD" tvg-name="Sony Sab HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-sab-hd-logo-300x300.jpg" group-title="All", Sony Sab HD
 http://103.149.130.122:8089/36/index.m3u8
 #EXTINF: -1 tvg-id="COLORS HD" tvg-name="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="All", COLORS HD
-http://102.102.102.102/hls/colore-tv-hd.m3u8
-#EXTINF: -1 tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_max_in.png" group-title="All", SONY MAX
+https://bdixtv24.tk/1x23/play.php?c=Colors_HD
+#EXTINF: -1 tvg-logo="ttp://www.kcvnet.in/images/chanellogo/sony_max_in.png" group-title="All", SONY MAX
 http://102.102.102.102/hls/sony-maxhd.m3u8
 #EXTINF: -1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/1922/brand.gif?itok=aic2pJgR" group-title="All", KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
