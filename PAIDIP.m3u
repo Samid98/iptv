@@ -66,4 +66,4 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="All", T Sports
 https://live.tsports.com/?bitrate=256000&channel=tsports_live_1080&res=1080
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-7wMNUTrrEiY/XBkpVA1fkGI/AAAAAAAAAbI/QJx7sTzDKWU4d5E-9KfCpx3rd9IV3b1bgCLcBGAs/w1200-h630-p-k-no-nu/Ekattor-Tv-live.png" group-title="All", Ekattor TV
-http://12.1.1.1:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+http://12.1.1.1:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=3d216587e0679bab770b9b4ef548dd02091caa78-0d1c8cb92bba8779f176f0462b7ff2d2-1688302937-1688292137
