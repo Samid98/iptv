@@ -52,7 +52,7 @@ https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/hsd251vq24vfr0j/bijoy_tv.png" group-title="All", BIJOY TV HD [BD]
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1318.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="All", Desh Tv [BD]
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
+http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1320.ts
 #EXTINF:-1 tvg-id="" tvg-name="NEXUS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4JKtLc9p_KBuXbiaOafBYdAUlNR3B6lu1wXjW1yKRZKHi9_VPiq9SVD8VYmqD_4F8GfA&usqp=CAU" group-title="All",NEXUS TV
 http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/2820.ts
 #EXTINF:-1, tvg-logo="" group-title="All",Mohona Tv
