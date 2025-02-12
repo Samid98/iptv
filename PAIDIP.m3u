@@ -66,8 +66,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1, tvg-logo="" group-title="All",Jago News
 http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="All", GTV
-http://bdristv.xyz:8880/live/Tahmid567/Tahmid@56790/1311.m3u8
+http://172.20.3.1:81/GaziTVHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="All", T Sports
-https://tvs1.aynaott.com/tsportsfhd/tracks-v1a1/mono.m3u8?hdnts=st%3D1705675695%7Eexp%3D1705718895%7Eacl%3D%2F%2A%7Edata%3D2604%3Abc80%3A8001%3A1244%3Aae1f%3A6bff%3Afef4%3A72a8-WEB%7Ehmac%3D7888424d546ac9635217634e5905f95f504dc08e2ff00f977d8595983e54b6c0
+http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-7wMNUTrrEiY/XBkpVA1fkGI/AAAAAAAAAbI/QJx7sTzDKWU4d5E-9KfCpx3rd9IV3b1bgCLcBGAs/w1200-h630-p-k-no-nu/Ekattor-Tv-live.png" group-title="All", Ekattor TV
 http://bdristv.xyz:8880/live/Tahmid567/Tahmid@56790/3113.ts
