@@ -6,7 +6,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_bangla.png" group-title="All", ATN BANGLA [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1, tvg-logo="" group-title="All",ATN Music
-http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+http://172.20.3.1:81/ChannelS/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="" group-title="All",Ekushey Tv
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="All", CHANNEL I HD [BD]
@@ -58,7 +58,7 @@ http://bdristv.xyz:8880/live/Tahmid567/Tahmid@56790/2820.ts
 #EXTINF:-1, tvg-logo="" group-title="All",Mohona Tv
 http://bdristv.xyz:8880/live/Tahmid567/Tahmid@56790/1309.ts
 #EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://duronto.tv/global/admin/images/setting/logo2.png" group-title="All",DURONTO TV
-http://bdristv.xyz:8880/live/Tahmid567/Tahmid@56790/1778.ts
+http://172.20.3.1:81/DurontoTVHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="All", ATN Islamic [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1, tvg-logo="" group-title="All",Voice Tv
@@ -70,4 +70,4 @@ http://172.20.3.1:81/GaziTVHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="All", T Sports
 http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-7wMNUTrrEiY/XBkpVA1fkGI/AAAAAAAAAbI/QJx7sTzDKWU4d5E-9KfCpx3rd9IV3b1bgCLcBGAs/w1200-h630-p-k-no-nu/Ekattor-Tv-live.png" group-title="All", Ekattor TV
-http://bdristv.xyz:8880/live/Tahmid567/Tahmid@56790/3113.ts
+http://172.20.3.1:81/IndependentTV/tracks-v1a1/mono.m3u8
